@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jayant Kalyan
-- 👀 I’m interested in ... Software Engineering, Machine Learning and Electronic Engineering roles
+- 👀 I’m interested in ... Software Engineering, Machine Learning and Electronic Engineering intenships
 - 🌱 I’m currently learning ... C++, linear algebra, Machine Learning, SQL
 - 💞️ I’m looking to collaborate on ... Any cool research or project
 - 📫 How to reach me ... jk5g19@soton.ac.uk
