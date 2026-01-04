@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jayant Kalyan
-- 👀 I’m interested in ... Software Engineering, Machine Learning and Electronic Engineering intenships
 - 🌱 I’m currently learning ... C++, Python, linear algebra, Machine Learning, SQL
 - 💞️ I’m looking to collaborate on ... Any cool research or project
 - 📫 How to reach me ... jayant.kalyan@gmail.com
