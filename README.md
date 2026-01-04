@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Software Engineering, Machine Learning and Electronic Engineering intenships
 - 🌱 I’m currently learning ... C++, Python, linear algebra, Machine Learning, SQL
 - 💞️ I’m looking to collaborate on ... Any cool research or project
-- 📫 How to reach me ... jk5g19@soton.ac.uk
+- 📫 How to reach me ... jayant.kalyan@gmail.com
 
 <!---
 JayantKalyan2001/JayantKalyan2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
